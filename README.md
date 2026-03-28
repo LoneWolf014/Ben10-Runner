@@ -1,0 +1,3 @@
+An Endless Runner game made with python.
+Assets are taken from spriters resource...
+Demo Video : https://youtu.be/pI7aBKgjXJY?si=mdqsn1RqWKVwP2ac
